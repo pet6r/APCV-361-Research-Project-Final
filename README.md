@@ -1,6 +1,6 @@
 # Arizona County Education & Health Analysis (2020–2024)
 
-This project analyzes the relationship between school distribution and health metrics across Arizona counties from 2020 to 2024. The goal is to assess correlations between normalized school data (schools per 10,000 residents) and public health outcomes using polynomial regression (degrees 1–3). 
+This project analyzes the relationship between school distribution and health metrics across Arizona counties from 2020 to 2024. The goal is to assess correlations between normalized school data (schools per 10,000 residents) and public health outcomes using polynomial regression (degrees 1–3). This was my final research project for APCV 361 (Data Analysis and Visualization).
 
 ## Features
 
