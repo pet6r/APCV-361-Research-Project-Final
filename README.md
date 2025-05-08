@@ -11,7 +11,7 @@ This project analyzes the relationship between school distribution and health me
 - Saves top 5 relationship plots for each polynomial degree.
 - Exports CSVs summarizing model strength.
 
-![degree1_Drug_Overdose_Mortality_Rate_(Hispanic)_vs_MIDDLE_PER_10K](https://github.com/user-attachments/assets/7e5bebac-1d20-4381-b01d-fe804366a47d)
+![degree1_Infant_Mortality_Rate_vs_SCHOOLS_PER_10K](https://github.com/user-attachments/assets/a05d93f8-2d41-4741-80ba-fa0838a2259c)
 
 ![newplot](https://github.com/user-attachments/assets/f4088416-f986-447b-9d08-d02e61dd9886)
 
