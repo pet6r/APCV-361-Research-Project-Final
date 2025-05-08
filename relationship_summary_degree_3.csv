@@ -1,0 +1,613 @@
+Health_Metric,School_Metric,R_Squared,File,N_Counties
+Mental Health Provider Rate,CHARTER_PER_10K,0.9555795256892939,mental_health_providers.csv,11
+% Limited Access to Healthy Foods,COLLEGE_PER_10K,0.9384420448976685,limited_access_to_healthy_foods.csv,12
+% Adults with Obesity,CHARTER_PER_10K,0.9163062026339324,adult_obesity.csv,11
+Motor Vehicle Mortality Rate,COLLEGE_PER_10K,0.9018371275736329,motor_vehicle_crash_deaths.csv,12
+MV Mortality Rate (Hispanic),COLLEGE_PER_10K,0.9005474225159675,motor_vehicle_crash_deaths.csv,11
+MV Mortality Rate (Hispanic),PRIMARY_PER_10K,0.8912924500833035,motor_vehicle_crash_deaths.csv,11
+Motor Vehicle Mortality Rate,PRIMARY_PER_10K,0.8906759067465061,motor_vehicle_crash_deaths.csv,13
+Infant Mortality Rate,SCHOOLS_PER_10K,0.8875670754452939,infant_mortality.csv,12
+% American Indian & Alaska Native,PRIMARY_PER_10K,0.8850146196120436,demographics.csv,13
+% Severe Housing Cost Burden,CHARTER_PER_10K,0.8839502884037392,severe_housing_cost_burden.csv,11
+% American Indian & Alaska Native,SCHOOLS_PER_10K,0.8838696300052841,demographics.csv,13
+Drug Overdose Mortality Rate (Hispanic),MIDDLE_PER_10K,0.878006938689696,drug_overdose_deaths.csv,10
+Motor Vehicle Mortality Rate,SCHOOLS_PER_10K,0.8736751335808022,motor_vehicle_crash_deaths.csv,13
+% Frequent Physical Distress,COLLEGE_PER_10K,0.8725013397634933,frequent_physical_distress.csv,12
+MV Mortality Rate (Hispanic),MIDDLE_PER_10K,0.8722264556261987,motor_vehicle_crash_deaths.csv,11
+MV Mortality Rate (Hispanic),SCHOOLS_PER_10K,0.8576883737801778,motor_vehicle_crash_deaths.csv,11
+% American Indian & Alaska Native,COLLEGE_PER_10K,0.8470242665474703,demographics.csv,12
+Child Mortality Rate (White),COLLEGE_PER_10K,0.8464944946018179,child_mortality.csv,10
+% Frequent Mental Distress,COLLEGE_PER_10K,0.84242333529087,frequent_mental_distress.csv,12
+Infant Mortality Rate,PRIMARY_PER_10K,0.8406608600093546,infant_mortality.csv,12
+% Vaccinated (Asian),PAROCHIAL_PER_10K,0.8396543273905241,flu_vaccinations.csv,10
+% Rural,SCHOOLS_PER_10K,0.836706925027512,demographics.csv,13
+Homicide Rate,PRIMARY_PER_10K,0.8359884116675973,homicides.csv,12
+% Vaccinated (Black),MIDDLE_PER_10K,0.8340036558240245,flu_vaccinations.csv,10
+% Food Insecure,COLLEGE_PER_10K,0.8316077143615155,food_insecurity.csv,12
+Homicide Rate,SCHOOLS_PER_10K,0.8309005049136596,homicides.csv,12
+YPLL Rate (Hispanic),MIDDLE_PER_10K,0.8283371603518266,premature_death.csv,12
+% Vaccinated (Asian),COLLEGE_PER_10K,0.8177056914606219,flu_vaccinations.csv,10
+% Uninsured,PRIMARY_PER_10K,0.816219466887367,uninsured.csv,13
+% Frequent Mental Distress,SCHOOLS_PER_10K,0.8119708982008156,frequent_mental_distress.csv,13
+% Frequent Physical Distress,SCHOOLS_PER_10K,0.8112985751340437,frequent_physical_distress.csv,13
+% Frequent Mental Distress,PRIMARY_PER_10K,0.8112391215213972,frequent_mental_distress.csv,13
+% Vaccinated (Asian),PRIMARY_PER_10K,0.8031044318539227,flu_vaccinations.csv,10
+% Black,COLLEGE_PER_10K,0.8016534820182457,demographics.csv,12
+% Frequent Physical Distress,PRIMARY_PER_10K,0.801609652506472,frequent_physical_distress.csv,13
+Child Mortality Rate,MIDDLE_PER_10K,0.8008311283573838,child_mortality.csv,12
+% Uninsured,PRIMARY_PER_10K,0.7993356883356435,uninsured_adults.csv,13
+Infant Mortality Rate,MIDDLE_PER_10K,0.798591689215924,infant_mortality.csv,12
+% Vaccinated (Asian),SCHOOLS_PER_10K,0.7945705386183711,flu_vaccinations.csv,10
+Infant Mortality Rate,COLLEGE_PER_10K,0.7934235574306874,infant_mortality.csv,12
+% Severe Housing Problems,SCHOOLS_PER_10K,0.7897381807422846,severe_housing_problems.csv,13
+% Some College,CHARTER_PER_10K,0.7892988477281254,some_college.csv,11
+HIV Prevalence Rate,COLLEGE_PER_10K,0.783389834760726,hiv_prevalence.csv,12
+High School Graduation Rate,CHARTER_PER_10K,0.7827322194949574,high_school_graduation.csv,11
+Suicide Rate (White),COLLEGE_PER_10K,0.7772679544414048,suicides.csv,12
+% Food Insecure,PRIMARY_PER_10K,0.7739175435528501,food_insecurity.csv,13
+Homicide Rate,COLLEGE_PER_10K,0.7728603776499279,homicides.csv,12
+% Uninsured,COLLEGE_PER_10K,0.7705559125339946,uninsured_adults.csv,12
+% Uninsured,SCHOOLS_PER_10K,0.7682219815362569,uninsured_adults.csv,13
+% Uninsured,SCHOOLS_PER_10K,0.7663777751105401,uninsured.csv,13
+% Vaccinated (White),MIDDLE_PER_10K,0.7596014938936195,flu_vaccinations.csv,13
+% Food Insecure,SCHOOLS_PER_10K,0.7572249410265267,food_insecurity.csv,13
+% Children in Poverty,COLLEGE_PER_10K,0.7571130622059988,children_in_poverty.csv,12
+% Limited Access to Healthy Foods,SCHOOLS_PER_10K,0.7562102282135472,limited_access_to_healthy_foods.csv,13
+% Severe Housing Problems,PRIMARY_PER_10K,0.7540014322808724,severe_housing_problems.csv,13
+% Limited Access to Healthy Foods,MIDDLE_PER_10K,0.7536680845800443,limited_access_to_healthy_foods.csv,13
+% Rural,COLLEGE_PER_10K,0.7510721743500202,demographics.csv,12
+% Rural,PRIMARY_PER_10K,0.7492005502254878,demographics.csv,13
+% Disconnected Youth,CHARTER_PER_10K,0.7470853850775149,disconnected_youth.csv,11
+% Severe Housing Cost Burden,MIDDLE_PER_10K,0.7439073104903609,severe_housing_cost_burden.csv,13
+% Limited Access to Healthy Foods,PRIMARY_PER_10K,0.7429052909848457,limited_access_to_healthy_foods.csv,13
+% Uninsured,COLLEGE_PER_10K,0.7334878387840933,uninsured.csv,12
+% Female,CHARTER_PER_10K,0.7331299156950947,demographics.csv,11
+Injury Death Rate,COLLEGE_PER_10K,0.731682217965389,injury_deaths.csv,12
+% With Annual Mammogram,COLLEGE_PER_10K,0.729457067506382,mammography_screening.csv,12
+% LBW (AIAN),CHARTER_PER_10K,0.728671585927539,low_birthweight.csv,10
+% Uninsured,PRIMARY_PER_10K,0.7284153485334341,uninsured_children.csv,13
+Suicide Rate (White),MIDDLE_PER_10K,0.7276936254919595,suicides.csv,12
+% Vaccinated (White),COLLEGE_PER_10K,0.7245738933074222,flu_vaccinations.csv,12
+% Severe Housing Problems,COLLEGE_PER_10K,0.7236900177385541,severe_housing_problems.csv,12
+% With Annual Mammogram,SCHOOLS_PER_10K,0.71395949488011,mammography_screening.csv,13
+% Screened (White),COLLEGE_PER_10K,0.7132440609562752,mammography_screening.csv,12
+Juvenile Arrest Rate,COLLEGE_PER_10K,0.7127837576452933,juvenile_arrests.csv,12
+% Insufficient Sleep,SCHOOLS_PER_10K,0.7124499710041508,insufficient_sleep.csv,13
+% Fair or Poor Health,COLLEGE_PER_10K,0.7080895725903835,poor_or_fair_health.csv,12
+% Vaccinated (White),CHARTER_PER_10K,0.7025096129412348,flu_vaccinations.csv,11
+% Excessive Drinking,PRIMARY_PER_10K,0.6980434207212021,excessive_drinking.csv,13
+% With Annual Mammogram,PRIMARY_PER_10K,0.6964013861161282,mammography_screening.csv,13
+% Rural,MIDDLE_PER_10K,0.6949648952802525,demographics.csv,13
+Firearm Fatalities Rate (White),COLLEGE_PER_10K,0.6878509473018368,firearm_fatalities.csv,12
+% Screened (White),SCHOOLS_PER_10K,0.6842120585596145,mammography_screening.csv,13
+% Children in Poverty,PRIMARY_PER_10K,0.6804848189816871,children_in_poverty.csv,13
+% Long Commute - Drives Alone,COLLEGE_PER_10K,0.6783978031951432,long_commute__driving_alone.csv,12
+% Children in Poverty,SCHOOLS_PER_10K,0.6753028106040069,children_in_poverty.csv,13
+% Screened (White),MIDDLE_PER_10K,0.6746025644758984,mammography_screening.csv,13
+% With Access to Exercise Opportunities,COLLEGE_PER_10K,0.6743509938220833,access_to_exercise_opportunities.csv,12
+% Excessive Drinking,COLLEGE_PER_10K,0.6729699172796446,excessive_drinking.csv,12
+Child Mortality Rate,COLLEGE_PER_10K,0.6719373132848443,child_mortality.csv,12
+% Physically Inactive,CHARTER_PER_10K,0.6658350995486431,physical_inactivity.csv,11
+Child Mortality Rate,PRIMARY_PER_10K,0.6656603473633438,child_mortality.csv,12
+% Excessive Drinking,SCHOOLS_PER_10K,0.665536603729566,excessive_drinking.csv,13
+% Fair or Poor Health,SCHOOLS_PER_10K,0.659111718852536,poor_or_fair_health.csv,13
+Suicide Rate (White),PRIMARY_PER_10K,0.6578663259255941,suicides.csv,12
+% Screened (White),PRIMARY_PER_10K,0.6574423776968723,mammography_screening.csv,13
+Injury Death Rate,PRIMARY_PER_10K,0.6573188118832635,injury_deaths.csv,13
+% Insufficient Sleep,CHARTER_PER_10K,0.6559188710056745,insufficient_sleep.csv,11
+Teen Birth Rate,MIDDLE_PER_10K,0.6556255772243252,teen_births.csv,13
+Child Mortality Rate,SCHOOLS_PER_10K,0.6517014959080936,child_mortality.csv,12
+Suicide Rate (Hispanic),COLLEGE_PER_10K,0.64939759129037,suicides.csv,10
+% Long Commute - Drives Alone,PRIMARY_PER_10K,0.6493335698203768,long_commute__driving_alone.csv,13
+% Children in Poverty (White),SCHOOLS_PER_10K,0.6483726959420646,children_in_poverty.csv,13
+% Fair or Poor Health,PRIMARY_PER_10K,0.6474125310791667,poor_or_fair_health.csv,13
+% With Access to Exercise Opportunities,PRIMARY_PER_10K,0.6471048726468172,access_to_exercise_opportunities.csv,13
+Suicide Rate (White),SCHOOLS_PER_10K,0.6398869105852729,suicides.csv,12
+% Uninsured,SCHOOLS_PER_10K,0.6395516566784184,uninsured_children.csv,13
+% Uninsured,COLLEGE_PER_10K,0.6389668812805376,uninsured_children.csv,12
+% With Access to Exercise Opportunities,SCHOOLS_PER_10K,0.6342834725730561,access_to_exercise_opportunities.csv,13
+Teen Birth Rate,CHARTER_PER_10K,0.6330015936680919,teen_births.csv,11
+% Excessive Drinking,CHARTER_PER_10K,0.6316739178667674,excessive_drinking.csv,11
+Homicide Rate,MIDDLE_PER_10K,0.6314262467792168,homicides.csv,12
+Teen Birth Rate (White),CHARTER_PER_10K,0.6293060315673131,teen_births.csv,11
+% Insufficient Sleep,PRIMARY_PER_10K,0.6285617986240088,insufficient_sleep.csv,13
+% Vaccinated,CHARTER_PER_10K,0.6283664078796585,flu_vaccinations.csv,11
+Preventable Hospitalization Rate,COLLEGE_PER_10K,0.6253198031550425,preventable_hospital_stays.csv,12
+% Native Hawaiian/Other Pacific Islander,COLLEGE_PER_10K,0.623641012019488,demographics.csv,12
+% Vaccinated (AIAN),SCHOOLS_PER_10K,0.6212801639335508,flu_vaccinations.csv,12
+Years of Potential Life Lost Rate,SCHOOLS_PER_10K,0.6202005514541156,premature_death.csv,13
+Years of Potential Life Lost Rate,COLLEGE_PER_10K,0.617654799668161,premature_death.csv,12
+% Children in Poverty (White),CHARTER_PER_10K,0.6157772891710289,children_in_poverty.csv,11
+% Non-Hispanic White,COLLEGE_PER_10K,0.6157000259830048,demographics.csv,12
+Injury Death Rate,SCHOOLS_PER_10K,0.6156399498457961,injury_deaths.csv,13
+% LBW (Hispanic),PRIMARY_PER_10K,0.6114927009232116,low_birthweight.csv,13
+% With Annual Mammogram,MIDDLE_PER_10K,0.6102734865773527,mammography_screening.csv,13
+% LBW (Hispanic),SCHOOLS_PER_10K,0.608757387575908,low_birthweight.csv,13
+Child Mortality Rate (White),PRIMARY_PER_10K,0.6056464991368903,child_mortality.csv,10
+Child Mortality Rate (White),MIDDLE_PER_10K,0.6036640423418899,child_mortality.csv,10
+Preventable Hospitalization Rate,SCHOOLS_PER_10K,0.6009253662082599,preventable_hospital_stays.csv,13
+Drug Overdose Mortality Rate (White),MIDDLE_PER_10K,0.5999216689540985,drug_overdose_deaths.csv,11
+% Smokers,COLLEGE_PER_10K,0.5998980136384648,adult_smoking.csv,12
+Preventable Hospitalization Rate,PRIMARY_PER_10K,0.5993787331134839,preventable_hospital_stays.csv,13
+% Long Commute - Drives Alone,SCHOOLS_PER_10K,0.5907048322919644,long_commute__driving_alone.csv,13
+Years of Potential Life Lost Rate,PRIMARY_PER_10K,0.5888369574868392,premature_death.csv,13
+% Native Hawaiian/Other Pacific Islander,PRIMARY_PER_10K,0.5885038022130213,demographics.csv,13
+% Driving Deaths with Alcohol Involvement,CHARTER_PER_10K,0.5848740057356946,alcoholimpaired_driving_deaths.csv,11
+Firearm Fatalities Rate (White),PRIMARY_PER_10K,0.5843695538425053,firearm_fatalities.csv,12
+% Hispanic,CHARTER_PER_10K,0.5832331729328433,demographics.csv,11
+% Asian,COLLEGE_PER_10K,0.5831485434437391,demographics.csv,12
+% Vaccinated (AIAN),PRIMARY_PER_10K,0.5801253279254515,flu_vaccinations.csv,12
+Suicide Rate (Hispanic),MIDDLE_PER_10K,0.5791994961992342,suicides.csv,10
+% Drive Alone (Hispanic),CHARTER_PER_10K,0.5757307504910341,driving_alone_to_work.csv,11
+Firearm Fatalities Rate (White),SCHOOLS_PER_10K,0.5716805386363165,firearm_fatalities.csv,12
+Firearm Fatalities Rate (White),MIDDLE_PER_10K,0.5715462223169305,firearm_fatalities.csv,12
+% Insufficient Sleep,COLLEGE_PER_10K,0.5705672531737729,insufficient_sleep.csv,12
+Child Mortality Rate (White),SCHOOLS_PER_10K,0.5699352086291474,child_mortality.csv,10
+Drug Overdose Mortality Rate (Hispanic),SCHOOLS_PER_10K,0.5654603596141825,drug_overdose_deaths.csv,10
+% Smokers,SCHOOLS_PER_10K,0.5649425420388469,adult_smoking.csv,13
+% Vaccinated (White),SCHOOLS_PER_10K,0.5641624425600232,flu_vaccinations.csv,13
+Age-Adjusted Death Rate,COLLEGE_PER_10K,0.5632354239690633,premature_ageadjusted_mortality.csv,12
+Social Association Rate,COLLEGE_PER_10K,0.5629561376512717,social_associations.csv,12
+% Single-Parent Households,COLLEGE_PER_10K,0.5621353666411579,children_in_singleparent_households.csv,12
+Juvenile Arrest Rate,SCHOOLS_PER_10K,0.5604748297408739,juvenile_arrests.csv,13
+Injury Death Rate (AIAN),COLLEGE_PER_10K,0.5594296385565555,injury_deaths.csv,11
+Teen Birth Rate (Hispanic),CHARTER_PER_10K,0.5565550104637905,teen_births.csv,11
+YPLL Rate (AIAN),PAROCHIAL_PER_10K,0.5553656881895084,premature_death.csv,11
+% Vaccinated (AIAN),COLLEGE_PER_10K,0.5536659046261452,flu_vaccinations.csv,12
+% Vaccinated,COLLEGE_PER_10K,0.5503585256092726,flu_vaccinations.csv,12
+% Native Hawaiian/Other Pacific Islander,SCHOOLS_PER_10K,0.5485086728773747,demographics.csv,13
+% Adults with Diabetes,CHARTER_PER_10K,0.5483271587540106,diabetes_prevalence.csv,11
+Juvenile Arrest Rate,PRIMARY_PER_10K,0.5479699879106348,juvenile_arrests.csv,13
+% Vaccinated (White),PRIMARY_PER_10K,0.5466528679660178,flu_vaccinations.csv,13
+% Low Birthweight,MIDDLE_PER_10K,0.5458064202742551,low_birthweight.csv,13
+% Smokers,PRIMARY_PER_10K,0.5452517686997962,adult_smoking.csv,13
+% With Access to Exercise Opportunities,CHARTER_PER_10K,0.5444782916496517,access_to_exercise_opportunities.csv,11
+% Vaccinated (Asian),MIDDLE_PER_10K,0.5422043237721843,flu_vaccinations.csv,10
+% Single-Parent Households,PRIMARY_PER_10K,0.5409824928531692,children_in_singleparent_households.csv,13
+% Fair or Poor Health,CHARTER_PER_10K,0.5369052266188636,poor_or_fair_health.csv,11
+Preventable Hosp. Rate (AIAN),CHARTER_PER_10K,0.5368844865489564,preventable_hospital_stays.csv,10
+Motor Vehicle Mortality Rate,MIDDLE_PER_10K,0.5356513551851505,motor_vehicle_crash_deaths.csv,13
+% Vaccinated (Black),COLLEGE_PER_10K,0.5349883983921876,flu_vaccinations.csv,10
+% Severe Housing Cost Burden,COLLEGE_PER_10K,0.5324181785186233,severe_housing_cost_burden.csv,12
+Age-Adjusted Death Rate,SCHOOLS_PER_10K,0.5277318111712923,premature_ageadjusted_mortality.csv,13
+% Single-Parent Households,SCHOOLS_PER_10K,0.524443337871129,children_in_singleparent_households.csv,13
+% Unemployed,CHARTER_PER_10K,0.5244199088236797,unemployment.csv,11
+% Native Hawaiian/Other Pacific Islander,PAROCHIAL_PER_10K,0.5222687725701809,demographics.csv,12
+High School Graduation Rate,PRIMARY_PER_10K,0.5196431409575608,high_school_graduation.csv,13
+% Screened (Asian),PAROCHIAL_PER_10K,0.5186458454061478,mammography_screening.csv,10
+Teen Birth Rate (Hispanic),MIDDLE_PER_10K,0.515703699341242,teen_births.csv,13
+% Disconnected Youth,SCHOOLS_PER_10K,0.5136054862686668,disconnected_youth.csv,12
+% Enrolled in Free or Reduced Lunch,COLLEGE_PER_10K,0.5124329360707354,children_eligible_for_free_or_reduced_price_lunch.csv,12
+Suicide Rate (Age-Adjusted),COLLEGE_PER_10K,0.5107718007410661,suicides.csv,12
+% Not Proficient in English,CHARTER_PER_10K,0.5105600611386303,demographics.csv,11
+% Smokers,CHARTER_PER_10K,0.5055670330452529,adult_smoking.csv,11
+% Vaccinated,PRIMARY_PER_10K,0.5001901069272315,flu_vaccinations.csv,13
+% Asian,MIDDLE_PER_10K,0.49745909691380075,demographics.csv,13
+% Vaccinated,MIDDLE_PER_10K,0.49589787698008747,flu_vaccinations.csv,13
+High School Graduation Rate,COLLEGE_PER_10K,0.4954349190628219,high_school_graduation.csv,12
+Age-Adjusted Death Rate,CHARTER_PER_10K,0.4915557713975687,premature_ageadjusted_mortality.csv,11
+% Vaccinated (Black),PAROCHIAL_PER_10K,0.4902302850144268,flu_vaccinations.csv,10
+% Severe Housing Cost Burden,SCHOOLS_PER_10K,0.4891605821220171,severe_housing_cost_burden.csv,13
+Child Mortality Rate (White),PAROCHIAL_PER_10K,0.4888884255138287,child_mortality.csv,10
+% Single-Parent Households,CHARTER_PER_10K,0.4888491155636039,children_in_singleparent_households.csv,11
+HIV Prevalence Rate,SCHOOLS_PER_10K,0.4874559648644907,hiv_prevalence.csv,13
+Chlamydia Rate,SCHOOLS_PER_10K,0.48534298307187385,sexually_transmitted_infections.csv,13
+% Vaccinated,SCHOOLS_PER_10K,0.48068449574987093,flu_vaccinations.csv,13
+% Non-Hispanic White,PRIMARY_PER_10K,0.48010909770410126,demographics.csv,13
+Age-Adjusted Death Rate,PRIMARY_PER_10K,0.4781681520719313,premature_ageadjusted_mortality.csv,13
+Teen Birth Rate,SCHOOLS_PER_10K,0.4774658338090616,teen_births.csv,13
+Drug Overdose Mortality Rate (Hispanic),PRIMARY_PER_10K,0.47604107694472075,drug_overdose_deaths.csv,10
+Chlamydia Rate,PRIMARY_PER_10K,0.4716878607557554,sexually_transmitted_infections.csv,13
+Preventable Hospitalization Rate,CHARTER_PER_10K,0.4700752713829831,preventable_hospital_stays.csv,11
+Social Association Rate,SCHOOLS_PER_10K,0.46433490786779763,social_associations.csv,13
+YPLL Rate (Hispanic),SCHOOLS_PER_10K,0.46296197396392647,premature_death.csv,12
+Crude Rate,COLLEGE_PER_10K,0.46119237654525236,suicides.csv,12
+% Vaccinated (Black),PRIMARY_PER_10K,0.4609851063131609,flu_vaccinations.csv,10
+Other Primary Care Provider Rate,CHARTER_PER_10K,0.45955468057071247,other_primary_care_providers.csv,11
+% Non-Hispanic White,SCHOOLS_PER_10K,0.45751832755461763,demographics.csv,13
+Other Primary Care Provider Rate,PAROCHIAL_PER_10K,0.45614776977900107,other_primary_care_providers.csv,12
+Primary Care Physicians Rate,CHARTER_PER_10K,0.45599489260132786,primary_care_physicians.csv,11
+% Vaccinated (Black),SCHOOLS_PER_10K,0.45506472282718435,flu_vaccinations.csv,10
+Teen Birth Rate (AIAN),SCHOOLS_PER_10K,0.4530747412930164,teen_births.csv,11
+Teen Birth Rate (AIAN),CHARTER_PER_10K,0.4521169445156573,teen_births.csv,10
+% Drive Alone to Work,CHARTER_PER_10K,0.4508331134879461,driving_alone_to_work.csv,11
+% With Access to Exercise Opportunities,MIDDLE_PER_10K,0.4505748140867337,access_to_exercise_opportunities.csv,13
+Drug Overdose Mortality Rate (White),PAROCHIAL_PER_10K,0.4501231761605099,drug_overdose_deaths.csv,11
+% less than 18 years of age,COLLEGE_PER_10K,0.44749765358472116,demographics.csv,12
+Years of Potential Life Lost Rate,CHARTER_PER_10K,0.44579943585485904,premature_death.csv,11
+% Insufficient Sleep,MIDDLE_PER_10K,0.4439459380421453,insufficient_sleep.csv,13
+% Native Hawaiian/Other Pacific Islander,MIDDLE_PER_10K,0.4434737667540879,demographics.csv,13
+YPLL Rate (Hispanic),CHARTER_PER_10K,0.4427007455547365,premature_death.csv,11
+% Drive Alone (AIAN),CHARTER_PER_10K,0.44112810572481553,driving_alone_to_work.csv,10
+% Drive Alone (AIAN),MIDDLE_PER_10K,0.4387909834561744,driving_alone_to_work.csv,11
+% Frequent Physical Distress,CHARTER_PER_10K,0.43824862345033244,frequent_physical_distress.csv,11
+% Children in Poverty (Hispanic),PAROCHIAL_PER_10K,0.43716238074575553,children_in_poverty.csv,12
+% Drive Alone (White),CHARTER_PER_10K,0.4364030115768829,driving_alone_to_work.csv,11
+% Black,MIDDLE_PER_10K,0.4360860136784973,demographics.csv,13
+Chlamydia Rate,COLLEGE_PER_10K,0.435508693145118,sexually_transmitted_infections.csv,12
+Teen Birth Rate (White),MIDDLE_PER_10K,0.4318321325722422,teen_births.csv,13
+Mental Health Provider Rate,SCHOOLS_PER_10K,0.4317336336914752,mental_health_providers.csv,13
+% Black,SCHOOLS_PER_10K,0.4316546445364783,demographics.csv,13
+% Adults with Diabetes,SCHOOLS_PER_10K,0.4313575604503168,diabetes_prevalence.csv,13
+% Hispanic,COLLEGE_PER_10K,0.4306976029219667,demographics.csv,12
+Violent Crime Rate,PAROCHIAL_PER_10K,0.4297583812749054,violent_crime.csv,12
+YPLL Rate (AIAN),MIDDLE_PER_10K,0.4277731994179964,premature_death.csv,11
+% Adults with Diabetes,COLLEGE_PER_10K,0.4275383446380655,diabetes_prevalence.csv,12
+% less than 18 years of age,SCHOOLS_PER_10K,0.42509268684049506,demographics.csv,13
+Injury Death Rate (Hispanic),COLLEGE_PER_10K,0.42506279783874135,injury_deaths.csv,12
+HIV Prevalence Rate,PRIMARY_PER_10K,0.42455164706356474,hiv_prevalence.csv,13
+% less than 18 years of age,PRIMARY_PER_10K,0.42345232975107394,demographics.csv,13
+YPLL Rate (Hispanic),COLLEGE_PER_10K,0.42290876547145295,premature_death.csv,12
+% LBW (White),COLLEGE_PER_10K,0.4227757624014691,low_birthweight.csv,12
+Injury Death Rate (Hispanic),MIDDLE_PER_10K,0.4211685674859784,injury_deaths.csv,13
+% LBW (Hispanic),COLLEGE_PER_10K,0.42003902294819484,low_birthweight.csv,12
+Drug Overdose Mortality Rate,COLLEGE_PER_10K,0.4186885424529455,drug_overdose_deaths.csv,12
+Drug Overdose Mortality Rate (White),PRIMARY_PER_10K,0.4169323020641563,drug_overdose_deaths.csv,11
+% Children in Poverty (White),PRIMARY_PER_10K,0.41489143115690175,children_in_poverty.csv,13
+Suicide Rate (Age-Adjusted),MIDDLE_PER_10K,0.4141499531666426,suicides.csv,12
+% Homeowners,CHARTER_PER_10K,0.4126661841645727,homeownership.csv,11
+Homicide Rate,CHARTER_PER_10K,0.41132819142517774,homicides.csv,11
+Age-Adjusted Death Rate,MIDDLE_PER_10K,0.4095111791798488,premature_ageadjusted_mortality.csv,13
+% Unemployed,COLLEGE_PER_10K,0.4077349469750896,unemployment.csv,12
+Preventable Hosp. Rate (AIAN),MIDDLE_PER_10K,0.40695032892789684,preventable_hospital_stays.csv,11
+Years of Potential Life Lost Rate,MIDDLE_PER_10K,0.4065124862046835,premature_death.csv,13
+% LBW (Hispanic),PAROCHIAL_PER_10K,0.4059691210777048,low_birthweight.csv,12
+% Disconnected Youth,MIDDLE_PER_10K,0.40449463417433806,disconnected_youth.csv,12
+% Low Birthweight,PAROCHIAL_PER_10K,0.40394060415738386,low_birthweight.csv,12
+% Adults with Diabetes,PRIMARY_PER_10K,0.39578976354176765,diabetes_prevalence.csv,13
+Preventable Hosp. Rate (AIAN),SCHOOLS_PER_10K,0.3946782913443878,preventable_hospital_stays.csv,11
+% Drive Alone (AIAN),PRIMARY_PER_10K,0.39384289450039667,driving_alone_to_work.csv,11
+% LBW (AIAN),SCHOOLS_PER_10K,0.3923283935779147,low_birthweight.csv,11
+Juvenile Arrest Rate,PAROCHIAL_PER_10K,0.39200721120885607,juvenile_arrests.csv,12
+% Asian,SCHOOLS_PER_10K,0.3917069698638158,demographics.csv,13
+% Disconnected Youth,PRIMARY_PER_10K,0.3899917192425981,disconnected_youth.csv,12
+HIV Prevalence Rate,MIDDLE_PER_10K,0.38841169427413624,hiv_prevalence.csv,13
+% Screened (Asian),SCHOOLS_PER_10K,0.38828206764720075,mammography_screening.csv,10
+% Black,PRIMARY_PER_10K,0.3869956993787065,demographics.csv,13
+% Vaccinated (Hispanic),CHARTER_PER_10K,0.3861461772683872,flu_vaccinations.csv,11
+% Severe Housing Cost Burden,PRIMARY_PER_10K,0.38533682616493936,severe_housing_cost_burden.csv,13
+% Female,SCHOOLS_PER_10K,0.38516877426047325,demographics.csv,13
+Teen Birth Rate (AIAN),MIDDLE_PER_10K,0.3847115616276314,teen_births.csv,11
+MV Mortality Rate (White),COLLEGE_PER_10K,0.3844776093009865,motor_vehicle_crash_deaths.csv,12
+Preventable Hosp. Rate (Hispanic),CHARTER_PER_10K,0.3827158580019989,preventable_hospital_stays.csv,11
+Injury Death Rate (White),PAROCHIAL_PER_10K,0.3806371703967343,injury_deaths.csv,12
+% Vaccinated (AIAN),PAROCHIAL_PER_10K,0.37966018407590996,flu_vaccinations.csv,12
+% Insufficient Sleep,PAROCHIAL_PER_10K,0.3782372521661205,insufficient_sleep.csv,12
+% less than 18 years of age,CHARTER_PER_10K,0.3762160174143303,demographics.csv,11
+High School Graduation Rate,SCHOOLS_PER_10K,0.37522350232737334,high_school_graduation.csv,13
+% Children in Poverty,CHARTER_PER_10K,0.37278271561523324,children_in_poverty.csv,11
+Primary Care Physicians Rate,PAROCHIAL_PER_10K,0.37165255937243,primary_care_physicians.csv,12
+Mental Health Provider Rate,MIDDLE_PER_10K,0.37056743836150663,mental_health_providers.csv,13
+% Female,PRIMARY_PER_10K,0.3699436114034832,demographics.csv,13
+Injury Death Rate (AIAN),MIDDLE_PER_10K,0.36955443666191157,injury_deaths.csv,11
+% Enrolled in Free or Reduced Lunch,PRIMARY_PER_10K,0.36733363436454514,children_eligible_for_free_or_reduced_price_lunch.csv,13
+% Children in Poverty (White),MIDDLE_PER_10K,0.3658763660573754,children_in_poverty.csv,13
+Teen Birth Rate (White),SCHOOLS_PER_10K,0.36301798397736873,teen_births.csv,13
+% Physically Inactive,SCHOOLS_PER_10K,0.36102788214863923,physical_inactivity.csv,13
+YPLL Rate (White),MIDDLE_PER_10K,0.3607503474731314,premature_death.csv,12
+Drug Overdose Mortality Rate,SCHOOLS_PER_10K,0.3606507310384388,drug_overdose_deaths.csv,12
+Social Association Rate,CHARTER_PER_10K,0.3577381809495236,social_associations.csv,11
+% Low Birthweight,SCHOOLS_PER_10K,0.35497289382194663,low_birthweight.csv,13
+% Long Commute - Drives Alone,MIDDLE_PER_10K,0.3544898582275763,long_commute__driving_alone.csv,13
+% less than 18 years of age,MIDDLE_PER_10K,0.3542633968320851,demographics.csv,13
+% Not Proficient in English,COLLEGE_PER_10K,0.3537191847546838,demographics.csv,12
+Suicide Rate (Age-Adjusted),SCHOOLS_PER_10K,0.35368281802000967,suicides.csv,12
+Preventable Hosp. Rate (Hispanic),PAROCHIAL_PER_10K,0.35230048076085807,preventable_hospital_stays.csv,12
+% Frequent Mental Distress,CHARTER_PER_10K,0.35182506770042754,frequent_mental_distress.csv,11
+% Long Commute - Drives Alone,PAROCHIAL_PER_10K,0.35171905398666037,long_commute__driving_alone.csv,12
+% Driving Deaths with Alcohol Involvement,MIDDLE_PER_10K,0.34586930822266837,alcoholimpaired_driving_deaths.csv,13
+% Enrolled in Free or Reduced Lunch,SCHOOLS_PER_10K,0.34497777548295905,children_eligible_for_free_or_reduced_price_lunch.csv,13
+Teen Birth Rate (AIAN),PAROCHIAL_PER_10K,0.34068203449702017,teen_births.csv,11
+% Screened (Asian),PRIMARY_PER_10K,0.3400436572057126,mammography_screening.csv,10
+% Low Birthweight,CHARTER_PER_10K,0.3397828912215186,low_birthweight.csv,11
+Child Mortality Rate (White),CHARTER_PER_10K,0.33929695931057036,child_mortality.csv,10
+% Some College,SCHOOLS_PER_10K,0.338336477970678,some_college.csv,13
+% Adults with Obesity,SCHOOLS_PER_10K,0.3353530201232364,adult_obesity.csv,13
+Preventable Hosp. Rate (Hispanic),SCHOOLS_PER_10K,0.333802940416163,preventable_hospital_stays.csv,13
+Drug Overdose Mortality Rate,PRIMARY_PER_10K,0.33315399130923307,drug_overdose_deaths.csv,12
+% Excessive Drinking,PAROCHIAL_PER_10K,0.3325230510720575,excessive_drinking.csv,12
+% Physically Inactive,PRIMARY_PER_10K,0.3319577013749957,physical_inactivity.csv,13
+Suicide Rate (Hispanic),PRIMARY_PER_10K,0.33137735721877193,suicides.csv,10
+% Screened (Asian),COLLEGE_PER_10K,0.3310258700820303,mammography_screening.csv,10
+% Asian,CHARTER_PER_10K,0.32972433541182167,demographics.csv,11
+% Children in Poverty (AIAN),PAROCHIAL_PER_10K,0.3280762130022653,children_in_poverty.csv,12
+Teen Birth Rate (Hispanic),SCHOOLS_PER_10K,0.32758566252029253,teen_births.csv,13
+Injury Death Rate (AIAN),PRIMARY_PER_10K,0.32675904583819837,injury_deaths.csv,11
+% Non-Hispanic White,CHARTER_PER_10K,0.32650412864216016,demographics.csv,11
+% Food Insecure,PAROCHIAL_PER_10K,0.3253388690653527,food_insecurity.csv,12
+Firearm Fatalities Rate,CHARTER_PER_10K,0.3252830013949738,firearm_fatalities.csv,11
+Social Association Rate,PRIMARY_PER_10K,0.3249040453701849,social_associations.csv,13
+% Homeowners,COLLEGE_PER_10K,0.32409614724047986,homeownership.csv,12
+Injury Death Rate,CHARTER_PER_10K,0.3231202920236592,injury_deaths.csv,11
+% Children in Poverty (Hispanic),COLLEGE_PER_10K,0.3223484449896791,children_in_poverty.csv,12
+Drug Overdose Mortality Rate,PAROCHIAL_PER_10K,0.3207137845246888,drug_overdose_deaths.csv,12
+% Vaccinated (Hispanic),COLLEGE_PER_10K,0.32040596347409367,flu_vaccinations.csv,12
+Suicide Rate (Age-Adjusted),CHARTER_PER_10K,0.3192352521002476,suicides.csv,11
+% Drive Alone (White),COLLEGE_PER_10K,0.31900800731552637,driving_alone_to_work.csv,12
+Social Association Rate,PAROCHIAL_PER_10K,0.3183733260003544,social_associations.csv,12
+Teen Birth Rate (AIAN),PRIMARY_PER_10K,0.3181473816660283,teen_births.csv,11
+% American Indian & Alaska Native,MIDDLE_PER_10K,0.31711508607836836,demographics.csv,13
+% Vaccinated (Asian),CHARTER_PER_10K,0.31619875504755024,flu_vaccinations.csv,10
+YPLL Rate (White),CHARTER_PER_10K,0.3134093912138227,premature_death.csv,11
+Primary Care Physicians Rate,SCHOOLS_PER_10K,0.31314108162591714,primary_care_physicians.csv,13
+Suicide Rate (Hispanic),SCHOOLS_PER_10K,0.3130328144913067,suicides.csv,10
+YPLL Rate (AIAN),CHARTER_PER_10K,0.3115099129974144,premature_death.csv,10
+% Drive Alone (Hispanic),SCHOOLS_PER_10K,0.31090733589384967,driving_alone_to_work.csv,13
+YPLL Rate (Hispanic),PRIMARY_PER_10K,0.3102631274513158,premature_death.csv,12
+% Frequent Physical Distress,MIDDLE_PER_10K,0.3090057517004189,frequent_physical_distress.csv,13
+Suicide Rate (Hispanic),CHARTER_PER_10K,0.30840330214694134,suicides.csv,10
+% Drive Alone (White),MIDDLE_PER_10K,0.30588398042341236,driving_alone_to_work.csv,13
+Infant Mortality Rate,CHARTER_PER_10K,0.305530113455602,infant_mortality.csv,11
+% Drive Alone (White),SCHOOLS_PER_10K,0.30345256021014533,driving_alone_to_work.csv,13
+% Native Hawaiian/Other Pacific Islander,CHARTER_PER_10K,0.3023749069113586,demographics.csv,11
+Crude Rate,CHARTER_PER_10K,0.2977082968547826,suicides.csv,11
+% Vaccinated (Hispanic),MIDDLE_PER_10K,0.2966415773444516,flu_vaccinations.csv,13
+% Asian,PRIMARY_PER_10K,0.2964680743075022,demographics.csv,13
+Suicide Rate (Age-Adjusted),PRIMARY_PER_10K,0.29452638080326354,suicides.csv,12
+% Limited Access to Healthy Foods,CHARTER_PER_10K,0.2944517009782772,limited_access_to_healthy_foods.csv,11
+% Severe Housing Problems,PAROCHIAL_PER_10K,0.294022682635644,severe_housing_problems.csv,12
+% Children in Poverty,PAROCHIAL_PER_10K,0.2917684229042862,children_in_poverty.csv,12
+% Uninsured,CHARTER_PER_10K,0.29149151290484776,uninsured_children.csv,11
+% Drive Alone (White),PRIMARY_PER_10K,0.2906112936391082,driving_alone_to_work.csv,13
+% Disconnected Youth,COLLEGE_PER_10K,0.28988128741418795,disconnected_youth.csv,12
+% Children in Poverty (AIAN),MIDDLE_PER_10K,0.28880036606910875,children_in_poverty.csv,12
+% Homeowners,PRIMARY_PER_10K,0.288376747529128,homeownership.csv,13
+Firearm Fatalities Rate (White),CHARTER_PER_10K,0.28793245004663637,firearm_fatalities.csv,11
+% Driving Deaths with Alcohol Involvement,PRIMARY_PER_10K,0.287541587103616,alcoholimpaired_driving_deaths.csv,13
+Injury Death Rate (AIAN),SCHOOLS_PER_10K,0.2871960709584105,injury_deaths.csv,11
+% Screened (White),CHARTER_PER_10K,0.2869700962500421,mammography_screening.csv,11
+YPLL Rate (White),COLLEGE_PER_10K,0.28673053140517035,premature_death.csv,12
+Dentist Rate,CHARTER_PER_10K,0.28662446249153206,dentists.csv,11
+Teen Birth Rate (AIAN),COLLEGE_PER_10K,0.28555149890493214,teen_births.csv,11
+Violent Crime Rate,COLLEGE_PER_10K,0.2852989720870571,violent_crime.csv,12
+% Screened (Hispanic),SCHOOLS_PER_10K,0.28457593201726383,mammography_screening.csv,13
+MV Mortality Rate (White),PAROCHIAL_PER_10K,0.2842679687421552,motor_vehicle_crash_deaths.csv,12
+% Drive Alone (AIAN),PAROCHIAL_PER_10K,0.2823988939622081,driving_alone_to_work.csv,11
+% Screened (Hispanic),PAROCHIAL_PER_10K,0.2821405151505113,mammography_screening.csv,12
+% Hispanic,PRIMARY_PER_10K,0.280323566168315,demographics.csv,13
+MV Mortality Rate (White),CHARTER_PER_10K,0.2795488920876593,motor_vehicle_crash_deaths.csv,11
+Teen Birth Rate,PRIMARY_PER_10K,0.27907072653980936,teen_births.csv,13
+Motor Vehicle Mortality Rate,CHARTER_PER_10K,0.277976842827518,motor_vehicle_crash_deaths.csv,11
+% Black,PAROCHIAL_PER_10K,0.2762140229329696,demographics.csv,12
+Injury Death Rate (Hispanic),SCHOOLS_PER_10K,0.27576129203996735,injury_deaths.csv,13
+% Non-Hispanic White,MIDDLE_PER_10K,0.27557979235258245,demographics.csv,13
+% LBW (Hispanic),MIDDLE_PER_10K,0.27505816959188334,low_birthweight.csv,13
+MV Mortality Rate (White),MIDDLE_PER_10K,0.273528863806933,motor_vehicle_crash_deaths.csv,12
+% Children in Poverty (Hispanic),PRIMARY_PER_10K,0.27259605929983455,children_in_poverty.csv,13
+Crude Rate,MIDDLE_PER_10K,0.2703701762891113,suicides.csv,12
+% Adults with Diabetes,MIDDLE_PER_10K,0.2696693891326316,diabetes_prevalence.csv,13
+YPLL Rate (AIAN),SCHOOLS_PER_10K,0.26821191373772546,premature_death.csv,11
+% Rural,CHARTER_PER_10K,0.26623889361310527,demographics.csv,11
+Teen Birth Rate,COLLEGE_PER_10K,0.2643996808917558,teen_births.csv,12
+Injury Death Rate (White),COLLEGE_PER_10K,0.26429915676496885,injury_deaths.csv,12
+Drug Overdose Mortality Rate (Hispanic),PAROCHIAL_PER_10K,0.2629087317940144,drug_overdose_deaths.csv,10
+Drug Overdose Mortality Rate (Hispanic),COLLEGE_PER_10K,0.26136755045684146,drug_overdose_deaths.csv,10
+% Screened (AIAN),CHARTER_PER_10K,0.2610549975272588,mammography_screening.csv,11
+% Single-Parent Households,MIDDLE_PER_10K,0.26055398448783973,children_in_singleparent_households.csv,13
+% Screened (Hispanic),PRIMARY_PER_10K,0.2597182647544247,mammography_screening.csv,13
+% Frequent Mental Distress,PAROCHIAL_PER_10K,0.25772701790154995,frequent_mental_distress.csv,12
+MV Mortality Rate (Hispanic),CHARTER_PER_10K,0.2568739977584553,motor_vehicle_crash_deaths.csv,10
+Violent Crime Rate,PRIMARY_PER_10K,0.2564824115383221,violent_crime.csv,13
+Primary Care Physicians Rate,PRIMARY_PER_10K,0.2558049367534463,primary_care_physicians.csv,13
+YPLL Rate (White),PAROCHIAL_PER_10K,0.2555014710903528,premature_death.csv,12
+% Children in Poverty (AIAN),CHARTER_PER_10K,0.253520227645879,children_in_poverty.csv,11
+% LBW (White),CHARTER_PER_10K,0.25288926131967937,low_birthweight.csv,11
+Child Mortality Rate,CHARTER_PER_10K,0.25183115244869114,child_mortality.csv,11
+% Frequent Mental Distress,MIDDLE_PER_10K,0.25122186958074355,frequent_mental_distress.csv,13
+% Drive Alone (Hispanic),PRIMARY_PER_10K,0.25076179782350705,driving_alone_to_work.csv,13
+% Uninsured,PAROCHIAL_PER_10K,0.25064736092685747,uninsured.csv,12
+Chlamydia Rate,PAROCHIAL_PER_10K,0.25020304844087615,sexually_transmitted_infections.csv,12
+Injury Death Rate (Hispanic),PRIMARY_PER_10K,0.24951169536286866,injury_deaths.csv,13
+Juvenile Arrest Rate,MIDDLE_PER_10K,0.24727490290835807,juvenile_arrests.csv,13
+% Hispanic,SCHOOLS_PER_10K,0.24560522137193852,demographics.csv,13
+% Vaccinated (AIAN),MIDDLE_PER_10K,0.2447187679210312,flu_vaccinations.csv,12
+Preventable Hosp. Rate (White),SCHOOLS_PER_10K,0.24445567607239294,preventable_hospital_stays.csv,13
+% Children in Poverty,MIDDLE_PER_10K,0.24413005295261925,children_in_poverty.csv,13
+% LBW (AIAN),MIDDLE_PER_10K,0.24375015800442001,low_birthweight.csv,11
+% Female,PAROCHIAL_PER_10K,0.24295140712670404,demographics.csv,12
+% Uninsured,PAROCHIAL_PER_10K,0.24272300383821,uninsured_adults.csv,12
+% Adults with Obesity,COLLEGE_PER_10K,0.24158088283777812,adult_obesity.csv,12
+% LBW (White),PRIMARY_PER_10K,0.24153273955988597,low_birthweight.csv,13
+% Uninsured,PAROCHIAL_PER_10K,0.2404935381597726,uninsured_children.csv,12
+Preventable Hosp. Rate (White),MIDDLE_PER_10K,0.24042926426162026,preventable_hospital_stays.csv,13
+% Smokers,PAROCHIAL_PER_10K,0.23966063200319665,adult_smoking.csv,12
+% Enrolled in Free or Reduced Lunch,CHARTER_PER_10K,0.23901303953644015,children_eligible_for_free_or_reduced_price_lunch.csv,11
+Injury Death Rate,MIDDLE_PER_10K,0.23894084127688586,injury_deaths.csv,13
+Preventable Hosp. Rate (Hispanic),MIDDLE_PER_10K,0.23814591281719322,preventable_hospital_stays.csv,13
+% LBW (AIAN),PRIMARY_PER_10K,0.2367116966740862,low_birthweight.csv,11
+% Drive Alone to Work,MIDDLE_PER_10K,0.23553399886657478,driving_alone_to_work.csv,13
+% Excessive Drinking,MIDDLE_PER_10K,0.2312825165153909,excessive_drinking.csv,13
+% Screened (Hispanic),CHARTER_PER_10K,0.22902019941369356,mammography_screening.csv,11
+% Fair or Poor Health,MIDDLE_PER_10K,0.22866218061213484,poor_or_fair_health.csv,13
+Preventable Hosp. Rate (White),PRIMARY_PER_10K,0.22807901565441557,preventable_hospital_stays.csv,13
+% LBW (White),PAROCHIAL_PER_10K,0.22715333078681788,low_birthweight.csv,12
+Teen Birth Rate (Hispanic),PRIMARY_PER_10K,0.22655597504107539,teen_births.csv,13
+% Driving Deaths with Alcohol Involvement,SCHOOLS_PER_10K,0.22435741973396228,alcoholimpaired_driving_deaths.csv,13
+% Some College,PRIMARY_PER_10K,0.2242138859697126,some_college.csv,13
+% Some College,MIDDLE_PER_10K,0.22367636056539908,some_college.csv,13
+% Homeowners,SCHOOLS_PER_10K,0.22337166684832677,homeownership.csv,13
+% Adults with Obesity,PRIMARY_PER_10K,0.22219947549174046,adult_obesity.csv,13
+Violent Crime Rate,CHARTER_PER_10K,0.2187017240273278,violent_crime.csv,11
+Teen Birth Rate,PAROCHIAL_PER_10K,0.21746463205665,teen_births.csv,12
+Crude Rate,SCHOOLS_PER_10K,0.21643597553301652,suicides.csv,12
+Violent Crime Rate,MIDDLE_PER_10K,0.21613832961767654,violent_crime.csv,13
+% Screened (Hispanic),COLLEGE_PER_10K,0.21498121720319807,mammography_screening.csv,12
+Preventable Hosp. Rate (AIAN),PAROCHIAL_PER_10K,0.21445164264660355,preventable_hospital_stays.csv,11
+Violent Crime Rate,SCHOOLS_PER_10K,0.21189867823332986,violent_crime.csv,13
+Dentist Rate,PAROCHIAL_PER_10K,0.21142374922891938,dentists.csv,12
+% Unemployed,SCHOOLS_PER_10K,0.2108590927963283,unemployment.csv,13
+Teen Birth Rate (White),PRIMARY_PER_10K,0.2090338646847083,teen_births.csv,13
+% American Indian & Alaska Native,PAROCHIAL_PER_10K,0.207045308733956,demographics.csv,12
+% LBW (AIAN),PAROCHIAL_PER_10K,0.2066257250821193,low_birthweight.csv,11
+Injury Death Rate (Hispanic),PAROCHIAL_PER_10K,0.20655794839587827,injury_deaths.csv,12
+% Drive Alone (AIAN),COLLEGE_PER_10K,0.20626138626759993,driving_alone_to_work.csv,11
+% Fair or Poor Health,PAROCHIAL_PER_10K,0.20541378925273768,poor_or_fair_health.csv,12
+Suicide Rate (Age-Adjusted),PAROCHIAL_PER_10K,0.2053430247892969,suicides.csv,12
+% Children in Poverty (White),COLLEGE_PER_10K,0.20513653418116373,children_in_poverty.csv,12
+Years of Potential Life Lost Rate,PAROCHIAL_PER_10K,0.20488038725220226,premature_death.csv,12
+% Children in Poverty (Hispanic),SCHOOLS_PER_10K,0.2041740745620637,children_in_poverty.csv,13
+YPLL Rate (AIAN),COLLEGE_PER_10K,0.2041731140960622,premature_death.csv,11
+% Drive Alone (Hispanic),MIDDLE_PER_10K,0.20327307952976414,driving_alone_to_work.csv,13
+Other Primary Care Provider Rate,MIDDLE_PER_10K,0.2026297889725902,other_primary_care_providers.csv,13
+% Children in Poverty (White),PAROCHIAL_PER_10K,0.20197729317950686,children_in_poverty.csv,12
+Preventable Hosp. Rate (White),COLLEGE_PER_10K,0.20164104285511664,preventable_hospital_stays.csv,12
+% LBW (White),SCHOOLS_PER_10K,0.20078031742887592,low_birthweight.csv,13
+% Drive Alone to Work,PAROCHIAL_PER_10K,0.20054619420704556,driving_alone_to_work.csv,12
+% Low Birthweight,PRIMARY_PER_10K,0.1982284692594245,low_birthweight.csv,13
+Infant Mortality Rate,PAROCHIAL_PER_10K,0.19771149184604797,infant_mortality.csv,12
+% Vaccinated (Hispanic),PAROCHIAL_PER_10K,0.19650151267320748,flu_vaccinations.csv,12
+% Screened (AIAN),COLLEGE_PER_10K,0.1955199716887186,mammography_screening.csv,12
+% With Annual Mammogram,CHARTER_PER_10K,0.19286681337664757,mammography_screening.csv,11
+Firearm Fatalities Rate,COLLEGE_PER_10K,0.1926069374793502,firearm_fatalities.csv,12
+Mental Health Provider Rate,PRIMARY_PER_10K,0.1919499970356331,mental_health_providers.csv,13
+Homicide Rate,PAROCHIAL_PER_10K,0.1911985747424545,homicides.csv,12
+Preventable Hosp. Rate (AIAN),COLLEGE_PER_10K,0.1899609942267252,preventable_hospital_stays.csv,11
+% Uninsured,CHARTER_PER_10K,0.18925469618414892,uninsured_adults.csv,11
+% Adults with Obesity,MIDDLE_PER_10K,0.18894205166749511,adult_obesity.csv,13
+YPLL Rate (White),SCHOOLS_PER_10K,0.1873178342926981,premature_death.csv,12
+Suicide Rate (White),PAROCHIAL_PER_10K,0.1860920418606593,suicides.csv,12
+Preventable Hospitalization Rate,MIDDLE_PER_10K,0.1853091826390736,preventable_hospital_stays.csv,13
+Social Association Rate,MIDDLE_PER_10K,0.18514021359657762,social_associations.csv,13
+Drug Overdose Mortality Rate (White),COLLEGE_PER_10K,0.18492560669796898,drug_overdose_deaths.csv,11
+% Disconnected Youth,PAROCHIAL_PER_10K,0.18485485877893548,disconnected_youth.csv,12
+Injury Death Rate,PAROCHIAL_PER_10K,0.1844913280137095,injury_deaths.csv,12
+Injury Death Rate (White),PRIMARY_PER_10K,0.18028668601392184,injury_deaths.csv,13
+MV Mortality Rate (White),SCHOOLS_PER_10K,0.1800911497212716,motor_vehicle_crash_deaths.csv,12
+% Drive Alone (AIAN),SCHOOLS_PER_10K,0.179293929593749,driving_alone_to_work.csv,11
+Primary Care Physicians Rate,MIDDLE_PER_10K,0.1791953734593814,primary_care_physicians.csv,13
+Drug Overdose Mortality Rate (White),SCHOOLS_PER_10K,0.1787396925257526,drug_overdose_deaths.csv,11
+% Uninsured,CHARTER_PER_10K,0.17870345298287582,uninsured.csv,11
+% 65 and over,COLLEGE_PER_10K,0.1782391113525572,demographics.csv,12
+% Unemployed,PRIMARY_PER_10K,0.17704686401586356,unemployment.csv,13
+Dentist Rate,COLLEGE_PER_10K,0.17699258995887435,dentists.csv,12
+% Some College,COLLEGE_PER_10K,0.17676966362677649,some_college.csv,12
+% Uninsured,MIDDLE_PER_10K,0.17628928791327358,uninsured_children.csv,13
+Dentist Rate,SCHOOLS_PER_10K,0.17524543146265603,dentists.csv,13
+MV Mortality Rate (White),PRIMARY_PER_10K,0.17502184915122065,motor_vehicle_crash_deaths.csv,12
+Teen Birth Rate (White),COLLEGE_PER_10K,0.1747850745896241,teen_births.csv,12
+% Children in Poverty (AIAN),SCHOOLS_PER_10K,0.1734632754311457,children_in_poverty.csv,12
+Teen Birth Rate (Hispanic),COLLEGE_PER_10K,0.1722762892361851,teen_births.csv,12
+% Screened (Asian),MIDDLE_PER_10K,0.1712418624809241,mammography_screening.csv,10
+Other Primary Care Provider Rate,SCHOOLS_PER_10K,0.17037315967245814,other_primary_care_providers.csv,13
+Age-Adjusted Death Rate,PAROCHIAL_PER_10K,0.1698522863985914,premature_ageadjusted_mortality.csv,12
+Crude Rate,PRIMARY_PER_10K,0.16807630113625271,suicides.csv,12
+% Smokers,MIDDLE_PER_10K,0.167125110657512,adult_smoking.csv,13
+Dentist Rate,PRIMARY_PER_10K,0.1630246978410893,dentists.csv,13
+Injury Death Rate (AIAN),PAROCHIAL_PER_10K,0.16256892284268165,injury_deaths.csv,11
+HIV Prevalence Rate,CHARTER_PER_10K,0.162510922661946,hiv_prevalence.csv,11
+% less than 18 years of age,PAROCHIAL_PER_10K,0.16166190247559886,demographics.csv,12
+% Physically Inactive,PAROCHIAL_PER_10K,0.16089990872634963,physical_inactivity.csv,12
+% Children in Poverty (Hispanic),MIDDLE_PER_10K,0.1598583247086902,children_in_poverty.csv,13
+% Long Commute - Drives Alone,CHARTER_PER_10K,0.15773645944173853,long_commute__driving_alone.csv,11
+% Vaccinated (Hispanic),SCHOOLS_PER_10K,0.15772319359619313,flu_vaccinations.csv,13
+YPLL Rate (White),PRIMARY_PER_10K,0.15563945986021765,premature_death.csv,12
+Crude Rate,PAROCHIAL_PER_10K,0.15502414183242952,suicides.csv,12
+Preventable Hosp. Rate (Hispanic),PRIMARY_PER_10K,0.15482627612478506,preventable_hospital_stays.csv,13
+Preventable Hosp. Rate (White),CHARTER_PER_10K,0.15310733052268244,preventable_hospital_stays.csv,11
+% 65 and over,PRIMARY_PER_10K,0.1522542609188423,demographics.csv,13
+% Drive Alone (White),PAROCHIAL_PER_10K,0.15222495666826164,driving_alone_to_work.csv,12
+Firearm Fatalities Rate (White),PAROCHIAL_PER_10K,0.1512266912180802,firearm_fatalities.csv,12
+% Vaccinated (Hispanic),PRIMARY_PER_10K,0.1495774943538848,flu_vaccinations.csv,13
+% Food Insecure,MIDDLE_PER_10K,0.14818378320026693,food_insecurity.csv,13
+% Frequent Physical Distress,PAROCHIAL_PER_10K,0.1471038046068106,frequent_physical_distress.csv,12
+% 65 and over,CHARTER_PER_10K,0.14642050637331738,demographics.csv,11
+% Severe Housing Problems,CHARTER_PER_10K,0.14582305874155232,severe_housing_problems.csv,11
+Preventable Hosp. Rate (Hispanic),COLLEGE_PER_10K,0.14460564459361813,preventable_hospital_stays.csv,12
+% Vaccinated (AIAN),CHARTER_PER_10K,0.14411873272920162,flu_vaccinations.csv,11
+% Single-Parent Households,PAROCHIAL_PER_10K,0.14381923700557708,children_in_singleparent_households.csv,12
+Drug Overdose Mortality Rate,CHARTER_PER_10K,0.14146333196756367,drug_overdose_deaths.csv,11
+% American Indian & Alaska Native,CHARTER_PER_10K,0.14077920231059826,demographics.csv,11
+% Unemployed,MIDDLE_PER_10K,0.14005536213698366,unemployment.csv,13
+Primary Care Physicians Rate,COLLEGE_PER_10K,0.13878401050557954,primary_care_physicians.csv,12
+% Rural,PAROCHIAL_PER_10K,0.13856592522716615,demographics.csv,12
+% Drive Alone to Work,SCHOOLS_PER_10K,0.13843661969781007,driving_alone_to_work.csv,13
+% Limited Access to Healthy Foods,PAROCHIAL_PER_10K,0.13779791804757258,limited_access_to_healthy_foods.csv,12
+Teen Birth Rate (Hispanic),PAROCHIAL_PER_10K,0.13748167987369897,teen_births.csv,12
+% Drive Alone (Hispanic),PAROCHIAL_PER_10K,0.13630004702169984,driving_alone_to_work.csv,12
+YPLL Rate (AIAN),PRIMARY_PER_10K,0.134545298676371,premature_death.csv,11
+% Not Proficient in English,SCHOOLS_PER_10K,0.13007150116344945,demographics.csv,13
+Drug Overdose Mortality Rate,MIDDLE_PER_10K,0.12742084724916913,drug_overdose_deaths.csv,12
+Drug Overdose Mortality Rate (Hispanic),CHARTER_PER_10K,0.1271740307679563,drug_overdose_deaths.csv,10
+Child Mortality Rate,PAROCHIAL_PER_10K,0.12574966513804486,child_mortality.csv,12
+Injury Death Rate (White),SCHOOLS_PER_10K,0.12478906780509902,injury_deaths.csv,13
+% Hispanic,PAROCHIAL_PER_10K,0.12032956515705129,demographics.csv,12
+% Screened (Asian),CHARTER_PER_10K,0.11590513963620541,mammography_screening.csv,10
+Motor Vehicle Mortality Rate,PAROCHIAL_PER_10K,0.11574887700395797,motor_vehicle_crash_deaths.csv,12
+Teen Birth Rate (White),PAROCHIAL_PER_10K,0.1154910118325273,teen_births.csv,12
+% Adults with Diabetes,PAROCHIAL_PER_10K,0.11539663090835939,diabetes_prevalence.csv,12
+% Food Insecure,CHARTER_PER_10K,0.11529324601410129,food_insecurity.csv,11
+% Driving Deaths with Alcohol Involvement,COLLEGE_PER_10K,0.11368319536828564,alcoholimpaired_driving_deaths.csv,12
+% Screened (White),PAROCHIAL_PER_10K,0.11229262096035841,mammography_screening.csv,12
+Drug Overdose Mortality Rate (White),CHARTER_PER_10K,0.11175193437939268,drug_overdose_deaths.csv,11
+% With Annual Mammogram,PAROCHIAL_PER_10K,0.11122564258253886,mammography_screening.csv,12
+% Homeowners,PAROCHIAL_PER_10K,0.11113224868749805,homeownership.csv,12
+% Physically Inactive,COLLEGE_PER_10K,0.1109338126664392,physical_inactivity.csv,12
+Injury Death Rate (Hispanic),CHARTER_PER_10K,0.10923935812952701,injury_deaths.csv,11
+% With Access to Exercise Opportunities,PAROCHIAL_PER_10K,0.10774388961514447,access_to_exercise_opportunities.csv,12
+% Screened (AIAN),MIDDLE_PER_10K,0.10740598071298313,mammography_screening.csv,12
+% 65 and over,PAROCHIAL_PER_10K,0.10706189235827146,demographics.csv,12
+% Vaccinated,PAROCHIAL_PER_10K,0.10672978348051398,flu_vaccinations.csv,12
+% Female,MIDDLE_PER_10K,0.10488342536238437,demographics.csv,13
+% Unemployed,PAROCHIAL_PER_10K,0.10390291710230781,unemployment.csv,12
+% LBW (White),MIDDLE_PER_10K,0.10352091063347502,low_birthweight.csv,13
+% Black,CHARTER_PER_10K,0.10280041422434139,demographics.csv,11
+Injury Death Rate (AIAN),CHARTER_PER_10K,0.10199546381792268,injury_deaths.csv,10
+% Low Birthweight,COLLEGE_PER_10K,0.10171458218287432,low_birthweight.csv,12
+Suicide Rate (White),CHARTER_PER_10K,0.10160681157020046,suicides.csv,11
+% Adults with Obesity,PAROCHIAL_PER_10K,0.10107238125150186,adult_obesity.csv,12
+Chlamydia Rate,CHARTER_PER_10K,0.10063042585335791,sexually_transmitted_infections.csv,11
+Dentist Rate,MIDDLE_PER_10K,0.10010987011575212,dentists.csv,13
+% Some College,PAROCHIAL_PER_10K,0.09557128130536852,some_college.csv,12
+% Uninsured,MIDDLE_PER_10K,0.09387623350877261,uninsured.csv,13
+% Drive Alone to Work,PRIMARY_PER_10K,0.0937952628100599,driving_alone_to_work.csv,13
+% Children in Poverty (Hispanic),CHARTER_PER_10K,0.09336552453640634,children_in_poverty.csv,11
+% Severe Housing Problems,MIDDLE_PER_10K,0.09286488998393905,severe_housing_problems.csv,13
+% 65 and over,SCHOOLS_PER_10K,0.09279622993043724,demographics.csv,13
+Mental Health Provider Rate,PAROCHIAL_PER_10K,0.09062378320245323,mental_health_providers.csv,12
+% Female,COLLEGE_PER_10K,0.09053532134226239,demographics.csv,12
+% Asian,PAROCHIAL_PER_10K,0.09034430647721792,demographics.csv,12
+% Screened (Hispanic),MIDDLE_PER_10K,0.08616331214995632,mammography_screening.csv,13
+% Vaccinated (Black),CHARTER_PER_10K,0.08536446514493234,flu_vaccinations.csv,10
+Other Primary Care Provider Rate,PRIMARY_PER_10K,0.08440092758528539,other_primary_care_providers.csv,13
+% Uninsured,MIDDLE_PER_10K,0.08430961586557795,uninsured_adults.csv,13
+% Not Proficient in English,MIDDLE_PER_10K,0.08326847575794227,demographics.csv,13
+High School Graduation Rate,MIDDLE_PER_10K,0.08284071556151784,high_school_graduation.csv,13
+Firearm Fatalities Rate,PAROCHIAL_PER_10K,0.0776633507781267,firearm_fatalities.csv,12
+% 65 and over,MIDDLE_PER_10K,0.07725185565798565,demographics.csv,13
+Mental Health Provider Rate,COLLEGE_PER_10K,0.07649764794218072,mental_health_providers.csv,12
+% Children in Poverty (AIAN),COLLEGE_PER_10K,0.07492800477497041,children_in_poverty.csv,12
+Injury Death Rate (White),CHARTER_PER_10K,0.07471985606552856,injury_deaths.csv,11
+HIV Prevalence Rate,PAROCHIAL_PER_10K,0.07460093504094012,hiv_prevalence.csv,12
+% Drive Alone (Hispanic),COLLEGE_PER_10K,0.07445949466632773,driving_alone_to_work.csv,12
+% Screened (AIAN),PAROCHIAL_PER_10K,0.07390295612938769,mammography_screening.csv,12
+% LBW (AIAN),COLLEGE_PER_10K,0.06920054290022992,low_birthweight.csv,11
+% Children in Poverty (AIAN),PRIMARY_PER_10K,0.06826598759272373,children_in_poverty.csv,12
+Preventable Hosp. Rate (White),PAROCHIAL_PER_10K,0.06537288548692732,preventable_hospital_stays.csv,12
+% Not Proficient in English,PAROCHIAL_PER_10K,0.0622781875142584,demographics.csv,12
+MV Mortality Rate (Hispanic),PAROCHIAL_PER_10K,0.061909401930077435,motor_vehicle_crash_deaths.csv,11
+Preventable Hosp. Rate (AIAN),PRIMARY_PER_10K,0.06128233726706289,preventable_hospital_stays.csv,11
+% Non-Hispanic White,PAROCHIAL_PER_10K,0.059301252112966774,demographics.csv,12
+% Not Proficient in English,PRIMARY_PER_10K,0.05842389387094438,demographics.csv,13
+Other Primary Care Provider Rate,COLLEGE_PER_10K,0.05808230052465735,other_primary_care_providers.csv,12
+YPLL Rate (Hispanic),PAROCHIAL_PER_10K,0.05711642720878507,premature_death.csv,12
+% Screened (AIAN),PRIMARY_PER_10K,0.05691161830233338,mammography_screening.csv,12
+Injury Death Rate (White),MIDDLE_PER_10K,0.05619602099905785,injury_deaths.csv,13
+% Vaccinated (White),PAROCHIAL_PER_10K,0.05390256304952268,flu_vaccinations.csv,12
+Juvenile Arrest Rate,CHARTER_PER_10K,0.04246554023170901,juvenile_arrests.csv,11
+% Enrolled in Free or Reduced Lunch,PAROCHIAL_PER_10K,0.04143386800701265,children_eligible_for_free_or_reduced_price_lunch.csv,12
+% Enrolled in Free or Reduced Lunch,MIDDLE_PER_10K,0.04034099684389569,children_eligible_for_free_or_reduced_price_lunch.csv,13
+% Physically Inactive,MIDDLE_PER_10K,0.03756760133144221,physical_inactivity.csv,13
+% Severe Housing Cost Burden,PAROCHIAL_PER_10K,0.03723005121793821,severe_housing_cost_burden.csv,12
+% Hispanic,MIDDLE_PER_10K,0.03637024222056495,demographics.csv,13
+% Homeowners,MIDDLE_PER_10K,0.03532619493028055,homeownership.csv,13
+Chlamydia Rate,MIDDLE_PER_10K,0.03175878887509909,sexually_transmitted_infections.csv,13
+Firearm Fatalities Rate,MIDDLE_PER_10K,0.03172243635446781,firearm_fatalities.csv,12
+% LBW (Hispanic),CHARTER_PER_10K,0.031033340142078703,low_birthweight.csv,11
+Suicide Rate (Hispanic),PAROCHIAL_PER_10K,0.025666149320250575,suicides.csv,10
+Firearm Fatalities Rate,SCHOOLS_PER_10K,0.02292783088652861,firearm_fatalities.csv,12
+% Drive Alone to Work,COLLEGE_PER_10K,0.017444932383776535,driving_alone_to_work.csv,12
+Preventable Hospitalization Rate,PAROCHIAL_PER_10K,0.01742962425844785,preventable_hospital_stays.csv,12
+High School Graduation Rate,PAROCHIAL_PER_10K,0.01662394671272005,high_school_graduation.csv,12
+% Screened (AIAN),SCHOOLS_PER_10K,0.012301403432031788,mammography_screening.csv,12
+% Driving Deaths with Alcohol Involvement,PAROCHIAL_PER_10K,0.005392275849604999,alcoholimpaired_driving_deaths.csv,12
+Firearm Fatalities Rate,PRIMARY_PER_10K,0.0016894265303559752,firearm_fatalities.csv,12
